@@ -238,7 +238,7 @@
       , <&macro_tap &rgb_ug RGB_COLOR_HSB(270,100,60)>
       , <&macro_pause_for_release>
       , <&macro_release &mo 1>
-      , <&macro_tap &rgb_ug RGB_COLOR_HSB(180,100,50)>
+      , <&macro_tap &rgb_ug RGB_COLOR_HSB(0,0,0)>
       ;
   };
 
@@ -253,7 +253,7 @@
       , <&macro_tap &rgb_ug RGB_COLOR_HSB(120,100,50)>
       , <&macro_pause_for_release>
       , <&macro_release &mo 2>
-      , <&macro_tap &rgb_ug RGB_COLOR_HSB(180,100,50)>
+      , <&macro_tap &rgb_ug RGB_COLOR_HSB(0,0,0)>
       ;
   };
 
@@ -268,6 +268,6 @@
       , <&macro_tap &rgb_ug RGB_COLOR_HSB(0,100,60)>
       , <&macro_pause_for_release>
       , <&macro_release &mo 3>
-      , <&macro_tap &rgb_ug RGB_COLOR_HSB(180,100,50)>
+      , <&macro_tap &rgb_ug RGB_COLOR_HSB(0,0,0)>
       ;
   };
